@@ -1,11 +1,13 @@
 # TOR
 Standalone TOR set to UseBridges on Windows 10 (runs quietly in the background)
 
-This file details the steps taken for this to work as intended
-Tor Expert is not bundled with any PluggableTransports (i.e. obfs4proxy)
-To use Pluggable Transports, one must download a version of TOR that already has them (i.e. Tor Browser Bundle)
+This file details the steps taken for this to work as intended.
 
-This version of tor.exe was taken from my ZeroNet data directory, which was saved on my desktop (why it runs in the background):
+Tor Expert is not bundled with any PluggableTransports (i.e. obfs4proxy).
+
+To use Pluggable Transports, one must download a version of TOR that already has them (i.e. Tor Browser Bundle).
+
+This version of tor.exe was taken from my ZeroNet data directory, which was saved on my desktop (why it runs in the background).
 
 C:\Users\SysAdmin\Desktop\ZeroNet-win-dist-win64\ZeroNet-win-dist-win64\core\tools\tor
 
