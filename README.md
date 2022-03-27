@@ -19,15 +19,19 @@ C:\Users\SysAdmin\Desktop\TOR
 
 # bridges.torproject.org
 
-# Edit torrc and copy/paste bridges into the file (replace <bridge> with lines from Step 2).
+# Edit torrc and copy/paste bridges into the file (replace bridge with lines from Step 2).
 
 """
 
-Bridges
+# Bridges
 ClientTransportPlugin obfs4 exec PluggableTransports/obfs4proxy
-<bridge>
-<bridge>
-<bridge>
+
+bridge
+
+bridge
+
+bridge
+
 UseBridges 1
 
 """
