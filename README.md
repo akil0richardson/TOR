@@ -36,4 +36,4 @@ UseBridges 1
 
 """
   
-# Check "Task Manager" for tor underneath "Processes" tab.
+# Check "Task Manager" for "tor" underneath "Processes" tab.
